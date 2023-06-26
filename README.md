@@ -29,6 +29,7 @@ This API provides several endpoints for different types of data analysis. All th
 3. Install the required packages using pip: pip install -r requirements.txt
 4. Run the server: uvicorn main:app --reload
 5. The server will start on http://localhost:8000. You can interact with it using any HTTP client like curl or Postman.
+6. If you need to use python script for request. You need to install the required packages using pip: pip install -r requirment.txt (for request script)
 
 # Contributing
 Contributions are welcome. Please submit a pull request or create an issue for any changes or improvements you want to propose.
