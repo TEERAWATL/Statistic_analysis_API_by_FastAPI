@@ -35,4 +35,4 @@ This API provides several endpoints for different types of data analysis. All th
 Contributions are welcome. Please submit a pull request or create an issue for any changes or improvements you want to propose.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the Teerawat Author License. For more information, please contact the author.
